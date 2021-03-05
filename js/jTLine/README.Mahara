@@ -1,0 +1,16 @@
+jTLine
+==================
+
+Website: https://naadydev.github.io/jTLine/
+Version: 1.0
+
+jQuery plugin, that create Horizontal Timeline,
+Build upon the fantastic "codyhouse" article.
+
+Changes:
+
+* Removed demo examples
+* Adjusted ajax setting to accept parameters from Mahara
+* Moved the css styles to htdocs/theme/raw/sass/features/_timeline.scss
+and removed the directory jTline/js/css
+* Added prev / next arrows for the events
